@@ -6,7 +6,7 @@ Get Gymini_v1.1.0 : [download](https://get-gymini.vercel.app/)
 See documentation : [github](https://github.com/Aryan0-101/Gymini) 
 
 ## 🏗️ Architecture & Tech Stack
-This landing page is designed to be lightweight, blindingly fast, and heavily visual. It requires zero build steps or heavy frameworks.
+This landing page is designed to be an introduction to Gymini. It requires zero build steps or heavy frameworks.
 
 * **HTML5:** Pure, semantic markup.
 * **Tailwind CSS (CDN):** Utility-first styling for rapid UI development and custom dark-mode ("Ink & Ember" theme).
